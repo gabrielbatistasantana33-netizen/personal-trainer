@@ -198,4 +198,7 @@ body {
         body {
             width: fit-content
         }
+        #con {
+            text-align: center;
+        }
     }
