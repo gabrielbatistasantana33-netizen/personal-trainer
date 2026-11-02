@@ -243,6 +243,10 @@ body {
             margin-left: 0;
             padding: 10;
         }
+        #t1 > p {
+            margin: auto;
+            text-align: justify;
+        }
         #plano {
             height: 1900px
         }
@@ -270,4 +274,22 @@ body {
         #ig:hover {
             background: linear-gradient(45deg, #feda75, #fa7e1e, #d62976, #962fbf, #4f5bd5);
 }
+        #op > p {
+            color: white;
+    text-align: center;
+    border: 2px solid white;
+    border-radius: 15%;
+    height: 350px;
+    width: 300px;
+    padding: 8px;
+    font-family: 'DM Serif Display', serif;
+    font-size: 28px;
+    background: linear-gradient(
+    135deg,
+    #000000,
+    #171717,
+    #303030,
+    #080808
+);
+        }
     }
