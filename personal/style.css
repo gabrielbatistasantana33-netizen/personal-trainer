@@ -240,6 +240,9 @@ body {
             width: 450px;
             margin:auto;
             justify-content: center;
+            width: 90%;
+            align-items: center;
+            max-width: 450px
         }
         #tx > p {
             margin-left: 0;
