@@ -239,7 +239,7 @@ body {
             justify-content: center;
             width: 450px;
             margin:auto;
-            text-align: justify;
+            justify-content: center;
         }
         #tx > p {
             margin-left: 0;
